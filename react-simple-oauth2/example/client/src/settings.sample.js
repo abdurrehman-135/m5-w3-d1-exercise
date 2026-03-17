@@ -8,7 +8,7 @@ export const authorizationUrl = 'https://github.com/login/oauth/authorize';
 // To get a client ID, create an app, e.g.
 // GitHub (authorization code grant only): https://github.com/settings/developers
 // Spotify (implicit grant & auth code): https://developer.spotify.com/dashboard/applications
-export const clientId = '';
+export const clientId = 'Ov23liFkgt6OlTes0yd9';
 
 // You get to configure this in your OAuth settings
 // If you use React Router, the relative path (empty here) can match
